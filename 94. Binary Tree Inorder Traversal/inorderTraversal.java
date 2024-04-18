@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class inorderTraversal {
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> res = new ArrayList<>();

@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class missingNumber {
     public int missingNumber(int[] nums) {
         Arrays.sort(nums);

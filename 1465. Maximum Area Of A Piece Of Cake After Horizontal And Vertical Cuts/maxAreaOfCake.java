@@ -1,4 +1,4 @@
-import java.util.HashMap;
+import java.util.Arrays;
 
 public class maxAreaOfCake {
     public int maxArea(int h, int w, int[] horizontalCuts, int[] verticalCuts) {
